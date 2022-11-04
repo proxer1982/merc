@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.botonBarra {
+  background-color: black;
+  color: white;
+  margin: 5px;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
