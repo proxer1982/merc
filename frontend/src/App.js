@@ -8,7 +8,7 @@ function App() {
     .then(data => console.log(data))
   }*/
   return (
-    <div className="App">
+    <div className="App" class="w-100 h-100">
       <BarraNav></BarraNav>
     </div>
   );

@@ -29,8 +29,8 @@ class BarraNav extends Component {
         }
 
         return(
-            <div>
-                <div className="barra">
+            <div class="w-100 h-100 d-flex flex-column">
+                <div className="barra m-auto">
                     <button className="botonBarra" onClick={iniciar}>Inicio</button>
                     <button className="botonBarra" onClick={loguear}>Login</button>
                     <button className="botonBarra" onClick={registrar}>Registro</button>

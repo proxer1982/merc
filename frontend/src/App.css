@@ -9,3 +9,9 @@
   padding: 10px 30px;
   border-radius: 5px;
 }
+
+.caja-login {
+  background-color: #FFFFFF;
+  border:1px solid #dedede;
+  border-radius: 8px;
+}
